@@ -4,4 +4,4 @@ https://youtu.be/VyWAvY2CF9c?si=g7IH_0eWB8A5Mmit 						- DEEP LEARNING CRASH COU
 https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=Clv14kef0x4JDCfF 	- NEURAL NETWORKS
 https://youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu&si=FB9SPZkMhhJwNsl0 	- CNN
 https://youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr&si=NyWLSy7UpXnphe95 	- RNN
-https://www.javatpoint.com/librosa-library-in-python                                              - LIBROSA TUTORIAL
+https://www.javatpoint.com/librosa-library-in-python                                            - LIBROSA TUTORIAL
