@@ -34,7 +34,7 @@ To run the notebooks in this repository, you will need the following:
 2. **Install Dependencies**:
    Navigate to the project directory and install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 3. **Run the Notebooks**:
