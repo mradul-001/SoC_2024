@@ -4,15 +4,15 @@
 
 ## Project Overview
 
-1. **Assignment_01.ipynb**: This notebook presents a machine learning model designed to predict the sentiment of movie reviews. Whether a review is positive or negative is determined using natural language processing (NLP) techniques, showcasing the application of sentiment analysis in real-world scenarios.
+1. **A01.ipynb**: This notebook presents a machine learning model designed to predict the sentiment of movie reviews. Whether a review is positive or negative is determined using natural language processing (NLP) techniques, showcasing the application of sentiment analysis in real-world scenarios.
 
-2. **Assignment_02.ipynb**: Inspired by TensorFlow’s mini speech recognition tutorial, this notebook demonstrates the creation of a model that classifies short spoken commands. This assignment highlights key concepts in speech processing and the use of neural networks for command recognition.
+2. **A02.ipynb**: Inspired by TensorFlow’s mini speech recognition tutorial, this notebook demonstrates the creation of a model that classifies short spoken commands. This assignment highlights key concepts in speech processing and the use of neural networks for command recognition.
 
-3. **VoxElectra.ipynb**: The centerpiece of this repository, VoxElectra, is a robust and scalable speech-to-text conversion model. This notebook delves into the architecture and methodologies employed to accurately transcribe spoken language into text, making it a valuable tool for a wide range of applications, from virtual assistants to transcription services.
+3. **main.ipynb**: The centerpiece of this repository, VoxElectra, is a robust and scalable speech-to-text conversion model. This notebook delves into the architecture and methodologies employed to accurately transcribe spoken language into text, making it a valuable tool for a wide range of applications, from virtual assistants to transcription services.
 
-4. **Understanding_Sound.ipynb**: A comprehensive exploration of sound, this notebook covers the fundamental concepts of sound waves, their properties, and how they can be analyzed and manipulated. It serves as a primer for those new to audio data processing or anyone looking to solidify their understanding of sound science.
+4. **sound.ipynb**: A comprehensive exploration of sound, this notebook covers the fundamental concepts of sound waves, their properties, and how they can be analyzed and manipulated. It serves as a primer for those new to audio data processing or anyone looking to solidify their understanding of sound science.
 
-5. **Resources.txt**: A curated list of resources that were instrumental in the development of this project. This file includes references to articles, tutorials, and documentation that guided the learning and implementation process.
+5. **res.txt**: A curated list of resources that were instrumental in the development of this project. This file includes references to articles, tutorials, and documentation that guided the learning and implementation process.
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ To run the notebooks in this repository, you will need the following:
 2. **Install Dependencies**:
    Navigate to the project directory and install the required Python packages:
    ```bash
-   pip install -r Requirements.txt
+   pip install -r req.txt
    ```
 
 3. **Run the Notebooks**:
